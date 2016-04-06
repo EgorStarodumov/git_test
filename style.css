@@ -11,4 +11,5 @@ body:before {
 	background: yellow; 
 	margin: -150px 0 0 -150px;
 	display: block;
+	border: 2px solid #fff;
 }
